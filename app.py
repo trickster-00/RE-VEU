@@ -18,8 +18,8 @@ from nltk.corpus import stopwords
 analyzer = SentimentIntensityAnalyzer()
 
 st.title("RE-VEU")
-st.header("Customer feedback is very Important. \n We help you get better insights about your reviews.")
-st.markdown("Let's get started, please upload a file with reviews")
+st.header("Customer feedback is very Important. \n Re-Vue analysis your data and helps you to get better insights about reviews from your customers.")
+st.markdown("Let's get started, please upload a file")
 
 
 uploaded_file = st.file_uploader(label="Upload a File",
