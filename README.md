@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.github.com/trickster-00"><img src="src/logo-white.png" alt="RE-VEU" width="200"></a>
+  <a href="http://re-veu.streamlitapp.com"><img src="src/logo-white.png" alt="RE-VEU" width="200"></a>
 </h1>
 
 <h4 align="center">A powerful web application built on top of <a href="https://streamlit.io" target="_blank">Streamlit</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
+  <a href="http://re-veu.streamlitapp.com">
     <img src="https://img.shields.io/badge/👾-website-lightgrey"
          alt="Gitter">
   </a>
@@ -21,7 +21,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](src/reveu.gif)
 
 ## Key Features
 
