@@ -21,7 +21,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](src/reveu.gif)
+![screenshot](src/reveu.mp4)
 
 ## Key Features
 
